@@ -4,6 +4,13 @@ Portfolio to illustrate my data science projects for academic and self-learning 
 
 More information about me is on [LinkedIn](https://linkedin.com/in/sukhrat-arziyev-855a26137/)
 
+## Experience
+Graduate Thesis Research
+Real Options Pricing using Neural Networks
+
+* Applied ANN to build a model that predicts parameters for Black-Scholes equation
+* Interpreted the numerical results for the real business usage
+
 ## Projects
 
 ### Statistics
