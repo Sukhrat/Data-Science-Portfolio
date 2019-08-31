@@ -18,3 +18,4 @@ More information about me is on [LinkedIn](https://linkedin.com/in/sukhrat-arziy
   * [Customer Churn Prediction](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Customer%20Churn) - used Python and Logistic Regression to model a prediction on customer churn on Telecommunication company database.
 
 ### Deep Learning
+ * [Cat Identifier](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Cat-ID) - as a final project on "Neural Networks and Deep Learning" course on Coursera, using Python trained an algorithm to identify a cat on the image
