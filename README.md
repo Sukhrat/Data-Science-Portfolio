@@ -7,7 +7,7 @@ More information about me is on [LinkedIn](https://linkedin.com/in/sukhrat-arziy
 ## Projects
 
 ### Statistics
- * -used Python and its libraries to conduct a Hypothesis testing
+ * [University Towns Hypothesis](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/UniversityTowns-Hypothesis) - used Python and its libraries to conduct a Hypothesis testing
 
 ### Data Visualization
 
