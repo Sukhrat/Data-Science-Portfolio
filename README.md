@@ -16,6 +16,9 @@ Real Options Pricing using Neural Networks
 
 ### Statistics
  * [University Towns Hypothesis](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/UniversityTowns-Hypothesis) - used Python and its libraries to conduct a Hypothesis testing
+ 
+### Web Scraping
+ * [Presidential Elections](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Presidential%20Elections) Used Python libraries to scrape the Kazakhstan Presidential elections participation data from Wikipedia to check the relationship between salary and elections attendance  
 
 ### Data Visualization
 
