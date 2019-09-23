@@ -21,7 +21,7 @@ Real Options Pricing using Neural Networks
  * [Presidential Elections](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Presidential%20Elections) Used Python libraries to scrape the Kazakhstan Presidential elections participation data from Wikipedia to check the relationship between salary and elections attendance  
 
 ### Data Visualization
-
+ * [Kazakhstan Salaries by Region](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/KZ%20income) Used Python with Bokeh and Geopandas libraries to visualize Salary distribution by regions in Kazakhstan
 ### Data Cleaning
 
 ### Machine Learning
