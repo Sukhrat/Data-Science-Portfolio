@@ -23,10 +23,12 @@ Real Options Pricing using Neural Networks
 ### Data Visualization
  * [Kazakhstan Salaries by Region](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/KZ%20income) Used Python with Bokeh and Geopandas libraries to visualize Salary distribution by regions in Kazakhstan
 ### Data Cleaning
+ * Patient coma prediction - based on small and unsorted real-world patient data, had to predict whether or not given patient will have a coma. Applied boosting algorithms and got 72% accuracy.
 
 ### Machine Learning
   * [Titanic Disaster](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Titanic) - used Python to preprocess the data and used Logistic Regression to predict survival on Titanic Disaster. Got 78% prediction accuracy.
   * [Customer Churn Prediction](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Customer%20Churn) - used Python and Logistic Regression to model a prediction on customer churn on Telecommunication company database.
+  
 
 ### Deep Learning
  * [Cat Identifier](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Cat-ID) - as a final project on "Neural Networks and Deep Learning" course on Coursera, using Python trained an algorithm to identify a cat on the image
