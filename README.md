@@ -31,4 +31,7 @@ Real Options Pricing using Neural Networks
   
 
 ### Deep Learning
+#### Computer Vision
  * [Cat Identifier](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Cat-ID) - as a final project on "Neural Networks and Deep Learning" course on Coursera, using Python trained an algorithm to identify a cat on the image
+ * [Movie Genre classification] - using Keras built a model to identify the genre of the movie by its poster
+ 
