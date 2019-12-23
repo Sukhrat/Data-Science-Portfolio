@@ -8,10 +8,7 @@ More information about me is on [LinkedIn](https://linkedin.com/in/sukhrat-arziy
 **Graduate Thesis Research**
 Real Options Pricing using Neural Networks
 
-* Applied ANN to build a new model that overcomes volatility assumptions in Black-Scholes model
-* Interpreted the numerical results for the real business usage
 
-**PDE solver using Neural Networks**
 ## Projects
 
 ### Statistics
@@ -19,15 +16,19 @@ Real Options Pricing using Neural Networks
  
 ### Web Scraping
  * [Presidential Elections](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Presidential%20Elections) Used Python libraries to scrape the Kazakhstan Presidential elections participation data from Wikipedia to check the relationship between salary and elections attendance  
+ * [Job listing]() Used libraries to scrape the data from Indeed.com
 
 ### Data Visualization
  * [Kazakhstan Salaries by Region](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/KZ%20income) Used Python with Bokeh and Geopandas libraries to visualize Salary distribution by regions in Kazakhstan
 ### Data Cleaning
  * Patient coma prediction - based on small and unsorted real-world patient data, had to predict whether or not given patient will have a coma. Applied boosting algorithms and got 72% accuracy.
+ * Sberbank Russian Housing Market - based on house loan data provided by Sberbank on Kaggle, cleaned the data, tuned it according to macroeconomic factors and built boosting model to predict the house prices.
 
 ### Machine Learning
-  * [Titanic Disaster](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Titanic) - used Python to preprocess the data and used Logistic Regression to predict survival on Titanic Disaster. Got 78% prediction accuracy.
+  * [Job Prestige]() built a  regression model that evaluates how prestigous the specific job title is
   * [Customer Churn Prediction](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Customer%20Churn) - used Python and Logistic Regression to model a prediction on customer churn on Telecommunication company database.
+  * [Flight delay predictor] - used boosting algorithms to predict the delay for the flight.
+  * [Online store product recommender]() - based on the online store purchase data from UCI repository, used turicreate library to build a collaborative filtering model based on cosine similarity
   
 
 ### Deep Learning
