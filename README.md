@@ -16,18 +16,15 @@ Real Options Pricing using Neural Networks
  
 ### Web Scraping
  * [Presidential Elections](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Presidential%20Elections) Used Python libraries to scrape the Kazakhstan Presidential elections participation data from Wikipedia to check the relationship between salary and elections attendance  
- * [Job listing]() Used libraries to scrape the data from Indeed.com
 
 ### Data Visualization
  * [Kazakhstan Salaries by Region](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/KZ%20income) Used Python with Bokeh and Geopandas libraries to visualize Salary distribution by regions in Kazakhstan
 ### Data Cleaning
  * Patient coma prediction - based on small and unsorted real-world patient data, had to predict whether or not given patient will have a coma. Applied boosting algorithms and got 72% accuracy.
- * Sberbank Russian Housing Market - based on house loan data provided by Sberbank on Kaggle, cleaned the data, tuned it according to macroeconomic factors and built boosting model to predict the house prices.
 
 ### Machine Learning
   * [Job Prestige]() built a  regression model that evaluates how prestigous the specific job title is
   * [Customer Churn Prediction](https://github.com/Sukhrat/Data-Science-Portfolio/tree/master/Mini-Projects/Customer%20Churn) - used Python and Logistic Regression to model a prediction on customer churn on Telecommunication company database.
-  * [Flight delay predictor] - used boosting algorithms to predict the delay for the flight.
   * [Online store product recommender]() - based on the online store purchase data from UCI repository, used turicreate library to build a collaborative filtering model based on cosine similarity
   
 
